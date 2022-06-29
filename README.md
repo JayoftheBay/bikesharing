@@ -1,16 +1,26 @@
-# Bike Sharing Analysis. 
- 
+# Bike Sharing Analysis.
  
 ## Introduction
-The purpose of this analysis is to help understand when and for how long indiviudals are using bikes. Seeing if there is any diffrences in gender and any other key factors that may become present. 
+The purpose of this analysis is to help understand when and for how long individuals are using bikes. Seeing if there are any differences in gender and any other key factors that may become present.
  
 ## Results
 Here are the results that we were able to conclude:
  [link to dashboard](https://public.tableau.com/app/profile/jahid.miah/viz/BikeTripAnalysis_16564779480090/Story1?publish=yes)
-![](Checkout_Times_by_Gender.PNG)
+ 
 ![](Checkout_Times_for_Users.PNG)
-![](Trips_by_Gender_Weekday_Per_Hour.PNG)
+Description: This graph depicts the average time each user spent using the bike.
+ 
+![](Checkout_Times_by_Gender.PNG)
+Description: This graph depicts the average time by gender each user spent using the bike.
+ 
 ![](Trips_by_Weekday_per_Hour.PNG)
+Description: This graph shows us the relative activity level during any given time of the week.
+ 
+![](Trips_by_Gender_Weekday_Per_Hour.PNG)
+Description:This graph shows us the relative activity level based on gender during any given time of the week.
+ 
 ![](User_Trips_by_Gender_by_Weekday.PNG)
+Description: This Graph shows if there's a difference in user based between customers and subscribers.
+ 
 ## Summary
-Based on the information we gathered, we can conclude that the nine graders at THS did not show any indication of academic dishonesty. The school has an overall high test score compared to other schools in the district. Arguably speaking, considering ninth grade should be easier then the higher grade levels the subtle dip in passing grades is not significant. There could be many outside forces that can affect such a small change. If more due diligence is needed on this topic, we should drop all ninth graders in the district to see if that drops the statistics. If so then we may have a case of academic dishonesty, if not, this analysis has concluded that the ninth graders in THS were not academically dishonest.
+Based on the results, we can see that most individuals only ride directly before in the early morning hours and the early evening hours. This could explain that many of the users may be using the bikes to get to and from work. This explains why we have such high subscriber counts as well as the timeframe that individuals come in. In the Trips by Weekday per Hour graph we can see that during the mid afternoon on friday we do have an uptake in the number of users. This may be due to an influx of tourists. One thing to note is that there are more male users than female users but the average trend lines seem to be relatively the same, meaning the use cases must be similar to identical.
